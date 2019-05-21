@@ -1,0 +1,2 @@
+# .CoreTestProject
+MyFirst.CoreTestDemo
